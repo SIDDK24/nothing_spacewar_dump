@@ -1,0 +1,18 @@
+## qssi-user 12 SKQ1.211230.001 1663771117 release-keys
+- Manufacturer: nothing
+- Platform: lahaina
+- Codename: Spacewar
+- Brand: Nothing
+- Flavor: qssi-user
+- Release Version: 12
+- Id: SKQ1.211230.001
+- Incremental: 1663771117
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Nothing/Spacewar/Spacewar:12/SKQ1.211230.001/1663771117:user/release-keys
+- OTA version: 
+- Branch: qssi-user-12-SKQ1.211230.001-1663771117-release-keys
+- Repo: nothing_spacewar_dump
